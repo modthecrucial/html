@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İlk Web Sayfam!</title>
+</head>
+<body>
+
+    <h1> Mustafa Oğuzhan Doğan</h1>
+<h2>Hakkında</h2>   
+
+<!-- Sayfanın bu kısmına kadar ana başlık ve bir alt başlık olacak -->
+
+<p>2000 yılında İstanbul'da doğdum. Ailem 4 kişilik ve ailemi çok seviyorum. Kod yazmayı öğrnemeye yeni başladım ve çok heyecanlıyımm</p>
+ 
+<img src="https://picsum.photos/200/300" alt="Deneme fotoğrafı -1"/>
+
+<div>
+        <h1>Seviğim Şeyler</h1>
+        <h2>Kitaplar</h2>
+    <ul>
+        <li><a href="https://www.goodreads.com/book/show/8333373-mai-ve-siyah" target="_blank">Mai ve Siyah</a></li>
+        <li>Karamazov Kardeşler</li>
+        <li>Albaya Mektup Yok</li>
+    </ul>
+        <h2>Yemkler</h2>
+    <ul>
+        <li>Pizza</li>
+        <li>Hamburger</li>
+        <li>Patates Kızartması</li>
+    </ul>
+        <h2>Filmler</h2>
+    <ul>
+        <li>  <a href="https://www.imdb.com/title/tt1379182/" target="_blank"> Dogtooth </a> </li>
+        <li>The klling of the Sacred Deer</li>
+        <li>Nimic</li>
+    </ul>
+</div>
+
+</body>
+</html>
